@@ -1,0 +1,41 @@
+<RCC>
+  <qresource prefix="/concrete">
+    <file alias="elevator-above.png">images/elevator-above.png</file>
+    <file alias="elevator-below.png">images/elevator-below.png</file>
+    <file alias="fillers-dosator-small.mng">images/small-fillers-dosator.mng</file>
+    <file alias="right.png">images/right.png</file>
+    <file alias="left.png">images/left.png</file>
+    <file alias="rmgate.mng">images/mixer-gate-rp.mng</file>
+    <file alias="tconveyor.mng">images/tconveyor.mng</file>
+    <file alias="conveyor.mng">images/conveyor.mng</file>
+    <file alias="dadditions.mng">images/addition-dosator.mng</file>
+    <file alias="attention.png">images/attention.png</file>
+    <file alias="lauger.mng">images/auger.mng</file>
+    <file alias="rauger.mng">images/rauger.mng</file>
+    <file alias="bell.png">images/bell.png</file>
+    <file alias="bolt.png">images/bolt.png</file>
+    <file alias="dcement.mng">images/cement-dosator.mng</file>
+    <file alias="dcement.webp">images/cement-dosator.webp</file>
+    <file alias="dcement.gif">images/cement-dosator.gif</file>
+    <file alias="down.png">images/down.png</file>
+    <file alias="fillers.mng">images/fillers-container.mng</file>
+    <file alias="fillers-container-l.mng">images/fillers-container-l.mng</file>
+    <file alias="fillers-container-r.mng">images/fillers-container-r.mng</file>
+    <file alias="fillers-dosator.mng">images/fillers-dosator.mng</file>
+    <file alias="fillers-rain.mng">images/fillers-rain-s.mng</file>
+    <file alias="green.png">images/green-led.png</file>
+    <file alias="heart.png">images/heart.png</file>
+    <file alias="mixer-gate-l.mng">images/mixer-gate-l.mng</file>
+    <file alias="lmgate.mng">images/mixer-gate-lp.mng</file>
+    <file alias="mixer-planar.mng">images/mixer-planar.mng</file>
+    <file alias="power.png">images/power.png</file>
+    <file alias="pump.mng">images/pump.mng</file>
+    <file alias="red.png">images/red-led.png</file>
+    <file alias="silage-short.png">images/silage-short.png</file>
+    <file alias="auto-mixer.png">images/auto-mixer.png</file>
+    <file alias="stop.png">images/stop.png</file>
+    <file alias="valve.mng">images/valve.mng</file>
+    <file alias="water-dosator.mng">images/water-dosator.mng</file>
+    <file alias="water-rain.mng">images/water-rain.mng</file>
+  </qresource>
+</RCC>
