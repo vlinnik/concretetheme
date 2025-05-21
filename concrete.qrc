@@ -1,5 +1,6 @@
 <RCC>
   <qresource prefix="/concrete">
+    <file alias="additions.png">images/additions.png</file>
     <file alias="home.png">images/home.png</file>
     <file alias="elevator-above.png">images/elevator-above.png</file>
     <file alias="elevator-below.png">images/elevator-below.png</file>
